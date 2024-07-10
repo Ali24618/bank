@@ -1,0 +1,90 @@
+.bank{
+    width: 1000px;
+    height: 600px;
+    border: red solid 10px;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+.block1{
+    position: relative;
+    left: 750px;
+}
+.text1{
+    position: relative;
+    margin-left: 320px;
+    top: 100px;
+}
+a{
+    text-decoration: none; 
+    color: black;
+}
+.block2{
+    width: 700px;
+    padding: 50px;
+    margin-left: 140px;
+    margin-top: 40px;
+    background-color: yellow;
+}
+.block3{
+    width: 300px;
+    padding: 10px;
+    margin-left: 340px;
+    margin-top: 40px;
+    background-color: greenyellow;
+}
+.input{
+    width: 400px;
+    margin-top: 150px;
+    margin-left: 305px;
+}
+.block4{
+    width: 300px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-top: 40px;
+    text-align: center;
+}
+.bro{
+    width: 30%;
+    padding: 20px;
+    margin-left: 3px;
+    margin-top: 100px;
+    background-color: red;
+}
+.hp{
+    width: 49%;
+    padding: 20px;
+    margin-left: 3px;
+    background-color: red;
+    border: 5px solid black;
+}
+.box{
+    width: 100%;
+    padding: 65px;
+    background-color: red;
+    border: 5px solid black;
+}
+.lol{
+    width: 510px;
+    padding: 65px;
+    background-color: red;
+    border: 5px solid black;
+}
+.inp1{
+    width: 300px;
+    margin-top: 140px;
+    margin-left: 330px;
+}
+.inp2{
+    width: 400px;
+    margin-left: 305px;
+    margin-top: 10px;
+}
+body {
+    background-color: white;
+    color: black
+}
+body.dark-theme {
+    background-color: black;
+    color: white;
+}
